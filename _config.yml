@@ -1,19 +1,4 @@
-name: simplyhealth4u
-favicon: null
-layout_spectrum: 0.1157626355998218
 typography_spectrum: 0.8037127517163754
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#F7EDF0'
@@ -25,4 +10,26 @@ color:
   lightness: 0.7050397095736116
   saturation: 0.21213713753968477
   rhythmicContrast: 0.3361008446663618
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.1157626355998218
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: simplyhealth4u
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: >-
+      Let us show you how to optimize your health, help the environment and save
+      time & money. We are also looking for qualified individuals for unique
+      opportunities to start their own businesses.
+    url: 'http://amway.ca/simplyhealth4u'
+    type: external
+favicon: null
 purpose: []
